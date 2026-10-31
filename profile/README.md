@@ -10,7 +10,7 @@ Formerly Eternal Reverse. Products shipped before the rebrand keep their Eternal
 - **EternalRichPresence**: Discord Rich Presence for Apple Music & Spotify
 - **Exerly Fitness**: Cross-platform fitness companion (SwiftUI + React)
 - **Signature Cuts 413**: Barbershop booking site (static Next.js)
-- **Eternal2x**: DaVinci Resolve motion-aware 4K upscale
+- **Upflow2x**: Smooth 2x for hand-drawn animation in DaVinci Resolve (formerly Eternal2x)
 - **Eternal Summary**: One-click AI page summaries (Chrome MV3)
 
 ## Links
